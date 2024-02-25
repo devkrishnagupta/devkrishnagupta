@@ -20,11 +20,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<!-- <a href="https://twitter.com/devkrishnagupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devkrishnagupta" height="30" width="40" /></a> -->
-<a title="Linkedin" href="https://linkedin.com/in/devkrishnagupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devkrishnagupta" height="40" /></a>
-<!-- <a href="https://instagram.com/devkrishnagupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devkrishnagupta" height="30" width="40" /></a> -->
-<a style="margin:10px" title="GeeksforGeeks" href="https://auth.geeksforgeeks.org/user/devkrishnagupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="devkrishnagupta" height="40" /></a>
-<a title="Leetcode" href="https://leetcode.com/devkrishnagupta/" target="blank"><img align="center" src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" alt="devkrishnagupta" height="40" /></a>
+<!-- <a href="https://twitter.com/devkrishnagupta" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devkrishnagupta" height="30" width="40" /></a> -->
+<a title="Linkedin" href="https://linkedin.com/in/devkrishnagupta" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devkrishnagupta" height="40" /></a>
+<!-- <a href="https://instagram.com/devkrishnagupta" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devkrishnagupta" height="30" width="40" /></a> -->
+<a style="margin:10px" title="GeeksforGeeks" href="https://auth.geeksforgeeks.org/user/devkrishnagupta" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="devkrishnagupta" height="40" /></a>
+<a title="Leetcode" href="https://leetcode.com/devkrishnagupta/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" alt="devkrishnagupta" height="40" /></a>
 </p>
 
 <!-- <img src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" width=500px> -->
